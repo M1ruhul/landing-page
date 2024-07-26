@@ -26,7 +26,7 @@ nav ul {
 /* nav bar code */
 /* hero section  */
 .hero-section {
-    background-image: url(../image/mern-stack.webp);
+    background-image: url(./image/mern-stack.webp);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 250px 0px;
