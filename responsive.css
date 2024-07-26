@@ -1,0 +1,22 @@
+@media screen and (max-width: 425px) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
+    .about-section {
+        flex-direction: column;
+    }
+    .contact-section {
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 768px) {
+    .grid {
+        grid-template-columns: 1fr 1fr;
+    }
+    .about-section {
+        flex-direction: column;
+    }
+    .contact-section {
+        flex-direction: column;
+    }
+}
